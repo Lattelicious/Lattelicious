@@ -31,12 +31,16 @@ The current application was developed with a team; the linked repository preserv
 
 *Designed for general education and care navigation.*
 
-## First Ten
+## First Ten — work in progress
 
-**Medical distribution · Mexico · Evidence-backed GTM**
+**Medical distribution · Mexico · Go-to-market research**
 
-An independent application that turns a medical product catalog into a recommended commercial route: public procurement, physician conversations, or hospital purchasing. It keeps clinical interest, purchasing authority, and procurement eligibility separate.
+I recently worked with a medical distribution company. The specific demands of the industry inspired me to begin developing this application.
 
-[Explore First Ten](https://first-ten.casagarciachavez.chatgpt.site) · [Source code](https://github.com/Lattelicious/first-ten) · [Architecture and evaluation](https://github.com/Lattelicious/first-ten/blob/main/docs/EVALUATION.md)
+First Ten explores how a medical product catalog can guide the choice between **licitaciones**, **direct physician relationships**, and **direct hospital sales**. Public procurement connects suppliers with institutional purchasing; physician relationships help establish clinical fit; hospital conversations address purchasing, technical evaluation, and service needs.
 
-Try the reviewed patient-monitoring and procedure-supply examples, compare recommendations, inspect evidence, and edit Spanish outreach drafts. Historical procurement examples are labeled. Sign in to research a catalog privately, or explore the reviewed examples without signing in. Live physician research has been checked against public professional sources; procurement results retain explicit deadline, eligibility and coverage caveats.
+The primary approach depends on the devices being sold. Hospital-scale monitoring may call for procurement and hospital contacts, while procedure-specific products may start with physicians and then the facility's purchasing team. These channels often work in tandem, so the application recommends an approach for each product family.
+
+[Explore the prototype](https://first-ten.casagarciachavez.chatgpt.site) · [Source code](https://github.com/Lattelicious/first-ten) · [Architecture](https://github.com/Lattelicious/first-ten/blob/main/docs/ARCHITECTURE.md) · [Evaluation](https://github.com/Lattelicious/first-ten/blob/main/docs/EVALUATION.md)
+
+Development is ongoing. The current prototype includes catalog intake, route recommendations, reviewed examples, live research, and editable Spanish outreach drafts.
