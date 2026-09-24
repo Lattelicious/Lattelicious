@@ -1,4 +1,4 @@
-# Featured application
+# Featured applications
 
 ## Adrenal Nodule Clinic Navigator
 
@@ -30,3 +30,13 @@ The current application was developed with a team; the linked repository preserv
 **Try it:** Ask “What is an adrenal nodule?” to explore the conversation and cited sources.
 
 *Designed for general education and care navigation.*
+
+## First Ten
+
+**Medical distribution · Mexico · Evidence-backed GTM**
+
+An independent application that turns a medical product catalog into a recommended commercial route: public procurement, physician conversations, or hospital purchasing. It keeps clinical interest, purchasing authority, and procurement eligibility separate.
+
+[Explore First Ten](https://first-ten.casagarciachavez.chatgpt.site) · [Source code](https://github.com/Lattelicious/first-ten) · [Architecture and evaluation](https://github.com/Lattelicious/first-ten/blob/main/docs/EVALUATION.md)
+
+Try the reviewed patient-monitoring and procedure-supply examples, compare recommendations, inspect evidence, and edit Spanish outreach drafts. Historical procurement examples are labeled. Live research is currently paused; the interactive showcase and reviewed examples are available.
