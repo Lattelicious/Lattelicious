@@ -39,4 +39,4 @@ An independent application that turns a medical product catalog into a recommend
 
 [Explore First Ten](https://first-ten.casagarciachavez.chatgpt.site) · [Source code](https://github.com/Lattelicious/first-ten) · [Architecture and evaluation](https://github.com/Lattelicious/first-ten/blob/main/docs/EVALUATION.md)
 
-Try the reviewed patient-monitoring and procedure-supply examples, compare recommendations, inspect evidence, and edit Spanish outreach drafts. Historical procurement examples are labeled. Live research is currently paused; the interactive showcase and reviewed examples are available.
+Try the reviewed patient-monitoring and procedure-supply examples, compare recommendations, inspect evidence, and edit Spanish outreach drafts. Historical procurement examples are labeled. Sign in to research a catalog privately, or explore the reviewed examples without signing in. Live physician research has been checked against public professional sources; procurement results retain explicit deadline, eligibility and coverage caveats.
